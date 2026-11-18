@@ -1,0 +1,37 @@
+[
+  {
+    "id": "bld-eng",
+    "code": "ENG",
+    "name": "Engineering Building",
+    "floors": 3,
+    "thresholdKwhPerHour": 35.8
+  },
+  {
+    "id": "bld-bus",
+    "code": "BUS",
+    "name": "Business School",
+    "floors": 3,
+    "thresholdKwhPerHour": 38.1
+  },
+  {
+    "id": "bld-lib",
+    "code": "LIB",
+    "name": "Central Library",
+    "floors": 2,
+    "thresholdKwhPerHour": 42.7
+  },
+  {
+    "id": "bld-sci",
+    "code": "SCI",
+    "name": "Science Labs",
+    "floors": 3,
+    "thresholdKwhPerHour": 41.3
+  },
+  {
+    "id": "bld-adm",
+    "code": "ADM",
+    "name": "Administration",
+    "floors": 2,
+    "thresholdKwhPerHour": 27.1
+  }
+]

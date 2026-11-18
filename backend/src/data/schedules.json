@@ -1,0 +1,1034 @@
+[
+  {
+    "id": "sch-eng-101-1-8",
+    "roomId": "room-eng-101",
+    "dayOfWeek": 1,
+    "startHour": 8,
+    "endHour": 10,
+    "courseName": "Engineering Mathematics II"
+  },
+  {
+    "id": "sch-eng-101-1-10",
+    "roomId": "room-eng-101",
+    "dayOfWeek": 1,
+    "startHour": 10,
+    "endHour": 12,
+    "courseName": "Digital Logic Design"
+  },
+  {
+    "id": "sch-eng-101-1-13",
+    "roomId": "room-eng-101",
+    "dayOfWeek": 1,
+    "startHour": 13,
+    "endHour": 15,
+    "courseName": "Statics & Dynamics"
+  },
+  {
+    "id": "sch-eng-101-1-15",
+    "roomId": "room-eng-101",
+    "dayOfWeek": 1,
+    "startHour": 15,
+    "endHour": 17,
+    "courseName": "Control Systems"
+  },
+  {
+    "id": "sch-eng-101-2-9",
+    "roomId": "room-eng-101",
+    "dayOfWeek": 2,
+    "startHour": 9,
+    "endHour": 11,
+    "courseName": "Statics & Dynamics"
+  },
+  {
+    "id": "sch-eng-101-2-11",
+    "roomId": "room-eng-101",
+    "dayOfWeek": 2,
+    "startHour": 11,
+    "endHour": 13,
+    "courseName": "Control Systems"
+  },
+  {
+    "id": "sch-eng-101-2-14",
+    "roomId": "room-eng-101",
+    "dayOfWeek": 2,
+    "startHour": 14,
+    "endHour": 16,
+    "courseName": "Embedded Systems"
+  },
+  {
+    "id": "sch-eng-101-3-8",
+    "roomId": "room-eng-101",
+    "dayOfWeek": 3,
+    "startHour": 8,
+    "endHour": 10,
+    "courseName": "Embedded Systems"
+  },
+  {
+    "id": "sch-eng-101-3-10",
+    "roomId": "room-eng-101",
+    "dayOfWeek": 3,
+    "startHour": 10,
+    "endHour": 12,
+    "courseName": "Robotics Fundamentals"
+  },
+  {
+    "id": "sch-eng-101-3-13",
+    "roomId": "room-eng-101",
+    "dayOfWeek": 3,
+    "startHour": 13,
+    "endHour": 15,
+    "courseName": "Circuit Analysis"
+  },
+  {
+    "id": "sch-eng-101-3-15",
+    "roomId": "room-eng-101",
+    "dayOfWeek": 3,
+    "startHour": 15,
+    "endHour": 17,
+    "courseName": "Thermodynamics"
+  },
+  {
+    "id": "sch-eng-101-4-9",
+    "roomId": "room-eng-101",
+    "dayOfWeek": 4,
+    "startHour": 9,
+    "endHour": 11,
+    "courseName": "Circuit Analysis"
+  },
+  {
+    "id": "sch-eng-101-4-11",
+    "roomId": "room-eng-101",
+    "dayOfWeek": 4,
+    "startHour": 11,
+    "endHour": 13,
+    "courseName": "Thermodynamics"
+  },
+  {
+    "id": "sch-eng-101-4-14",
+    "roomId": "room-eng-101",
+    "dayOfWeek": 4,
+    "startHour": 14,
+    "endHour": 16,
+    "courseName": "Engineering Mathematics II"
+  },
+  {
+    "id": "sch-eng-101-5-9",
+    "roomId": "room-eng-101",
+    "dayOfWeek": 5,
+    "startHour": 9,
+    "endHour": 11,
+    "courseName": "Engineering Mathematics II"
+  },
+  {
+    "id": "sch-eng-204-1-9",
+    "roomId": "room-eng-204",
+    "dayOfWeek": 1,
+    "startHour": 9,
+    "endHour": 12,
+    "courseName": "Control Systems"
+  },
+  {
+    "id": "sch-eng-204-1-13",
+    "roomId": "room-eng-204",
+    "dayOfWeek": 1,
+    "startHour": 13,
+    "endHour": 16,
+    "courseName": "Embedded Systems"
+  },
+  {
+    "id": "sch-eng-204-2-10",
+    "roomId": "room-eng-204",
+    "dayOfWeek": 2,
+    "startHour": 10,
+    "endHour": 13,
+    "courseName": "Robotics Fundamentals"
+  },
+  {
+    "id": "sch-eng-204-2-14",
+    "roomId": "room-eng-204",
+    "dayOfWeek": 2,
+    "startHour": 14,
+    "endHour": 17,
+    "courseName": "Circuit Analysis"
+  },
+  {
+    "id": "sch-eng-204-3-9",
+    "roomId": "room-eng-204",
+    "dayOfWeek": 3,
+    "startHour": 9,
+    "endHour": 12,
+    "courseName": "Thermodynamics"
+  },
+  {
+    "id": "sch-eng-204-3-13",
+    "roomId": "room-eng-204",
+    "dayOfWeek": 3,
+    "startHour": 13,
+    "endHour": 16,
+    "courseName": "Engineering Mathematics II"
+  },
+  {
+    "id": "sch-eng-204-4-10",
+    "roomId": "room-eng-204",
+    "dayOfWeek": 4,
+    "startHour": 10,
+    "endHour": 13,
+    "courseName": "Digital Logic Design"
+  },
+  {
+    "id": "sch-eng-204-5-9",
+    "roomId": "room-eng-204",
+    "dayOfWeek": 5,
+    "startHour": 9,
+    "endHour": 12,
+    "courseName": "Control Systems"
+  },
+  {
+    "id": "sch-eng-310-1-10",
+    "roomId": "room-eng-310",
+    "dayOfWeek": 1,
+    "startHour": 10,
+    "endHour": 13,
+    "courseName": "Circuit Analysis"
+  },
+  {
+    "id": "sch-eng-310-2-9",
+    "roomId": "room-eng-310",
+    "dayOfWeek": 2,
+    "startHour": 9,
+    "endHour": 12,
+    "courseName": "Engineering Mathematics II"
+  },
+  {
+    "id": "sch-eng-310-2-13",
+    "roomId": "room-eng-310",
+    "dayOfWeek": 2,
+    "startHour": 13,
+    "endHour": 16,
+    "courseName": "Digital Logic Design"
+  },
+  {
+    "id": "sch-eng-310-3-10",
+    "roomId": "room-eng-310",
+    "dayOfWeek": 3,
+    "startHour": 10,
+    "endHour": 13,
+    "courseName": "Statics & Dynamics"
+  },
+  {
+    "id": "sch-eng-310-3-14",
+    "roomId": "room-eng-310",
+    "dayOfWeek": 3,
+    "startHour": 14,
+    "endHour": 17,
+    "courseName": "Control Systems"
+  },
+  {
+    "id": "sch-eng-310-4-9",
+    "roomId": "room-eng-310",
+    "dayOfWeek": 4,
+    "startHour": 9,
+    "endHour": 12,
+    "courseName": "Embedded Systems"
+  },
+  {
+    "id": "sch-eng-310-4-13",
+    "roomId": "room-eng-310",
+    "dayOfWeek": 4,
+    "startHour": 13,
+    "endHour": 16,
+    "courseName": "Robotics Fundamentals"
+  },
+  {
+    "id": "sch-eng-115-1-8",
+    "roomId": "room-eng-115",
+    "dayOfWeek": 1,
+    "startHour": 8,
+    "endHour": 17,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-eng-115-2-8",
+    "roomId": "room-eng-115",
+    "dayOfWeek": 2,
+    "startHour": 8,
+    "endHour": 17,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-eng-115-3-8",
+    "roomId": "room-eng-115",
+    "dayOfWeek": 3,
+    "startHour": 8,
+    "endHour": 17,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-eng-115-4-8",
+    "roomId": "room-eng-115",
+    "dayOfWeek": 4,
+    "startHour": 8,
+    "endHour": 17,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-eng-115-5-8",
+    "roomId": "room-eng-115",
+    "dayOfWeek": 5,
+    "startHour": 8,
+    "endHour": 12,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-bus-g01-1-10",
+    "roomId": "room-bus-g01",
+    "dayOfWeek": 1,
+    "startHour": 10,
+    "endHour": 12,
+    "courseName": "Principles of Marketing"
+  },
+  {
+    "id": "sch-bus-g01-2-13",
+    "roomId": "room-bus-g01",
+    "dayOfWeek": 2,
+    "startHour": 13,
+    "endHour": 15,
+    "courseName": "Business Analytics"
+  },
+  {
+    "id": "sch-bus-g01-3-10",
+    "roomId": "room-bus-g01",
+    "dayOfWeek": 3,
+    "startHour": 10,
+    "endHour": 12,
+    "courseName": "Organizational Behavior"
+  },
+  {
+    "id": "sch-bus-g01-3-15",
+    "roomId": "room-bus-g01",
+    "dayOfWeek": 3,
+    "startHour": 15,
+    "endHour": 17,
+    "courseName": "Entrepreneurship"
+  },
+  {
+    "id": "sch-bus-g01-4-11",
+    "roomId": "room-bus-g01",
+    "dayOfWeek": 4,
+    "startHour": 11,
+    "endHour": 13,
+    "courseName": "Investment Trading Lab"
+  },
+  {
+    "id": "sch-bus-120-1-9",
+    "roomId": "room-bus-120",
+    "dayOfWeek": 1,
+    "startHour": 9,
+    "endHour": 11,
+    "courseName": "Corporate Finance"
+  },
+  {
+    "id": "sch-bus-120-1-13",
+    "roomId": "room-bus-120",
+    "dayOfWeek": 1,
+    "startHour": 13,
+    "endHour": 15,
+    "courseName": "Organizational Behavior"
+  },
+  {
+    "id": "sch-bus-120-2-8",
+    "roomId": "room-bus-120",
+    "dayOfWeek": 2,
+    "startHour": 8,
+    "endHour": 10,
+    "courseName": "Entrepreneurship"
+  },
+  {
+    "id": "sch-bus-120-2-10",
+    "roomId": "room-bus-120",
+    "dayOfWeek": 2,
+    "startHour": 10,
+    "endHour": 12,
+    "courseName": "Investment Trading Lab"
+  },
+  {
+    "id": "sch-bus-120-2-14",
+    "roomId": "room-bus-120",
+    "dayOfWeek": 2,
+    "startHour": 14,
+    "endHour": 16,
+    "courseName": "Principles of Marketing"
+  },
+  {
+    "id": "sch-bus-120-3-9",
+    "roomId": "room-bus-120",
+    "dayOfWeek": 3,
+    "startHour": 9,
+    "endHour": 11,
+    "courseName": "Principles of Marketing"
+  },
+  {
+    "id": "sch-bus-120-3-13",
+    "roomId": "room-bus-120",
+    "dayOfWeek": 3,
+    "startHour": 13,
+    "endHour": 15,
+    "courseName": "Financial Accounting"
+  },
+  {
+    "id": "sch-bus-120-4-10",
+    "roomId": "room-bus-120",
+    "dayOfWeek": 4,
+    "startHour": 10,
+    "endHour": 12,
+    "courseName": "Business Analytics"
+  },
+  {
+    "id": "sch-bus-120-4-14",
+    "roomId": "room-bus-120",
+    "dayOfWeek": 4,
+    "startHour": 14,
+    "endHour": 16,
+    "courseName": "Corporate Finance"
+  },
+  {
+    "id": "sch-bus-230-1-10",
+    "roomId": "room-bus-230",
+    "dayOfWeek": 1,
+    "startHour": 10,
+    "endHour": 13,
+    "courseName": "Investment Trading Lab"
+  },
+  {
+    "id": "sch-bus-230-2-9",
+    "roomId": "room-bus-230",
+    "dayOfWeek": 2,
+    "startHour": 9,
+    "endHour": 12,
+    "courseName": "Financial Accounting"
+  },
+  {
+    "id": "sch-bus-230-2-13",
+    "roomId": "room-bus-230",
+    "dayOfWeek": 2,
+    "startHour": 13,
+    "endHour": 16,
+    "courseName": "Business Analytics"
+  },
+  {
+    "id": "sch-bus-230-3-10",
+    "roomId": "room-bus-230",
+    "dayOfWeek": 3,
+    "startHour": 10,
+    "endHour": 13,
+    "courseName": "Corporate Finance"
+  },
+  {
+    "id": "sch-bus-230-3-14",
+    "roomId": "room-bus-230",
+    "dayOfWeek": 3,
+    "startHour": 14,
+    "endHour": 17,
+    "courseName": "Organizational Behavior"
+  },
+  {
+    "id": "sch-bus-230-4-9",
+    "roomId": "room-bus-230",
+    "dayOfWeek": 4,
+    "startHour": 9,
+    "endHour": 12,
+    "courseName": "Entrepreneurship"
+  },
+  {
+    "id": "sch-bus-230-4-13",
+    "roomId": "room-bus-230",
+    "dayOfWeek": 4,
+    "startHour": 13,
+    "endHour": 16,
+    "courseName": "Investment Trading Lab"
+  },
+  {
+    "id": "sch-bus-305-1-8",
+    "roomId": "room-bus-305",
+    "dayOfWeek": 1,
+    "startHour": 8,
+    "endHour": 17,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-bus-305-2-8",
+    "roomId": "room-bus-305",
+    "dayOfWeek": 2,
+    "startHour": 8,
+    "endHour": 17,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-bus-305-3-8",
+    "roomId": "room-bus-305",
+    "dayOfWeek": 3,
+    "startHour": 8,
+    "endHour": 17,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-bus-305-4-8",
+    "roomId": "room-bus-305",
+    "dayOfWeek": 4,
+    "startHour": 8,
+    "endHour": 17,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-bus-305-5-8",
+    "roomId": "room-bus-305",
+    "dayOfWeek": 5,
+    "startHour": 8,
+    "endHour": 12,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-lib-g10-0-10",
+    "roomId": "room-lib-g10",
+    "dayOfWeek": 0,
+    "startHour": 10,
+    "endHour": 18,
+    "courseName": "Library opening hours"
+  },
+  {
+    "id": "sch-lib-g10-1-8",
+    "roomId": "room-lib-g10",
+    "dayOfWeek": 1,
+    "startHour": 8,
+    "endHour": 22,
+    "courseName": "Library opening hours"
+  },
+  {
+    "id": "sch-lib-g10-2-8",
+    "roomId": "room-lib-g10",
+    "dayOfWeek": 2,
+    "startHour": 8,
+    "endHour": 22,
+    "courseName": "Library opening hours"
+  },
+  {
+    "id": "sch-lib-g10-3-8",
+    "roomId": "room-lib-g10",
+    "dayOfWeek": 3,
+    "startHour": 8,
+    "endHour": 22,
+    "courseName": "Library opening hours"
+  },
+  {
+    "id": "sch-lib-g10-4-8",
+    "roomId": "room-lib-g10",
+    "dayOfWeek": 4,
+    "startHour": 8,
+    "endHour": 22,
+    "courseName": "Library opening hours"
+  },
+  {
+    "id": "sch-lib-g10-5-9",
+    "roomId": "room-lib-g10",
+    "dayOfWeek": 5,
+    "startHour": 9,
+    "endHour": 16,
+    "courseName": "Library opening hours"
+  },
+  {
+    "id": "sch-lib-150-0-10",
+    "roomId": "room-lib-150",
+    "dayOfWeek": 0,
+    "startHour": 10,
+    "endHour": 18,
+    "courseName": "Library opening hours"
+  },
+  {
+    "id": "sch-lib-150-1-8",
+    "roomId": "room-lib-150",
+    "dayOfWeek": 1,
+    "startHour": 8,
+    "endHour": 22,
+    "courseName": "Library opening hours"
+  },
+  {
+    "id": "sch-lib-150-2-8",
+    "roomId": "room-lib-150",
+    "dayOfWeek": 2,
+    "startHour": 8,
+    "endHour": 22,
+    "courseName": "Library opening hours"
+  },
+  {
+    "id": "sch-lib-150-3-8",
+    "roomId": "room-lib-150",
+    "dayOfWeek": 3,
+    "startHour": 8,
+    "endHour": 22,
+    "courseName": "Library opening hours"
+  },
+  {
+    "id": "sch-lib-150-4-8",
+    "roomId": "room-lib-150",
+    "dayOfWeek": 4,
+    "startHour": 8,
+    "endHour": 22,
+    "courseName": "Library opening hours"
+  },
+  {
+    "id": "sch-lib-150-5-9",
+    "roomId": "room-lib-150",
+    "dayOfWeek": 5,
+    "startHour": 9,
+    "endHour": 16,
+    "courseName": "Library opening hours"
+  },
+  {
+    "id": "sch-lib-210-1-9",
+    "roomId": "room-lib-210",
+    "dayOfWeek": 1,
+    "startHour": 9,
+    "endHour": 12,
+    "courseName": "Research Skills Seminar"
+  },
+  {
+    "id": "sch-lib-210-1-13",
+    "roomId": "room-lib-210",
+    "dayOfWeek": 1,
+    "startHour": 13,
+    "endHour": 16,
+    "courseName": "Library opening hours"
+  },
+  {
+    "id": "sch-lib-210-2-10",
+    "roomId": "room-lib-210",
+    "dayOfWeek": 2,
+    "startHour": 10,
+    "endHour": 13,
+    "courseName": "Media Production Workshop"
+  },
+  {
+    "id": "sch-lib-210-2-14",
+    "roomId": "room-lib-210",
+    "dayOfWeek": 2,
+    "startHour": 14,
+    "endHour": 17,
+    "courseName": "Research Skills Seminar"
+  },
+  {
+    "id": "sch-lib-210-3-9",
+    "roomId": "room-lib-210",
+    "dayOfWeek": 3,
+    "startHour": 9,
+    "endHour": 12,
+    "courseName": "Library opening hours"
+  },
+  {
+    "id": "sch-lib-210-3-13",
+    "roomId": "room-lib-210",
+    "dayOfWeek": 3,
+    "startHour": 13,
+    "endHour": 16,
+    "courseName": "Media Production Workshop"
+  },
+  {
+    "id": "sch-lib-210-4-10",
+    "roomId": "room-lib-210",
+    "dayOfWeek": 4,
+    "startHour": 10,
+    "endHour": 13,
+    "courseName": "Research Skills Seminar"
+  },
+  {
+    "id": "sch-lib-210-5-9",
+    "roomId": "room-lib-210",
+    "dayOfWeek": 5,
+    "startHour": 9,
+    "endHour": 12,
+    "courseName": "Media Production Workshop"
+  },
+  {
+    "id": "sch-lib-220-1-8",
+    "roomId": "room-lib-220",
+    "dayOfWeek": 1,
+    "startHour": 8,
+    "endHour": 17,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-lib-220-2-8",
+    "roomId": "room-lib-220",
+    "dayOfWeek": 2,
+    "startHour": 8,
+    "endHour": 17,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-lib-220-3-8",
+    "roomId": "room-lib-220",
+    "dayOfWeek": 3,
+    "startHour": 8,
+    "endHour": 17,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-lib-220-4-8",
+    "roomId": "room-lib-220",
+    "dayOfWeek": 4,
+    "startHour": 8,
+    "endHour": 17,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-lib-220-5-8",
+    "roomId": "room-lib-220",
+    "dayOfWeek": 5,
+    "startHour": 8,
+    "endHour": 12,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-sci-110-1-9",
+    "roomId": "room-sci-110",
+    "dayOfWeek": 1,
+    "startHour": 9,
+    "endHour": 12,
+    "courseName": "Cell Biology Lab"
+  },
+  {
+    "id": "sch-sci-110-1-13",
+    "roomId": "room-sci-110",
+    "dayOfWeek": 1,
+    "startHour": 13,
+    "endHour": 16,
+    "courseName": "Microbiology"
+  },
+  {
+    "id": "sch-sci-110-2-10",
+    "roomId": "room-sci-110",
+    "dayOfWeek": 2,
+    "startHour": 10,
+    "endHour": 13,
+    "courseName": "Physics I"
+  },
+  {
+    "id": "sch-sci-110-2-14",
+    "roomId": "room-sci-110",
+    "dayOfWeek": 2,
+    "startHour": 14,
+    "endHour": 17,
+    "courseName": "Modern Physics"
+  },
+  {
+    "id": "sch-sci-110-3-9",
+    "roomId": "room-sci-110",
+    "dayOfWeek": 3,
+    "startHour": 9,
+    "endHour": 12,
+    "courseName": "General Chemistry Lab"
+  },
+  {
+    "id": "sch-sci-110-3-13",
+    "roomId": "room-sci-110",
+    "dayOfWeek": 3,
+    "startHour": 13,
+    "endHour": 16,
+    "courseName": "Organic Chemistry"
+  },
+  {
+    "id": "sch-sci-110-4-10",
+    "roomId": "room-sci-110",
+    "dayOfWeek": 4,
+    "startHour": 10,
+    "endHour": 13,
+    "courseName": "Cell Biology Lab"
+  },
+  {
+    "id": "sch-sci-110-5-9",
+    "roomId": "room-sci-110",
+    "dayOfWeek": 5,
+    "startHour": 9,
+    "endHour": 12,
+    "courseName": "Physics I"
+  },
+  {
+    "id": "sch-sci-205-1-10",
+    "roomId": "room-sci-205",
+    "dayOfWeek": 1,
+    "startHour": 10,
+    "endHour": 13,
+    "courseName": "Modern Physics"
+  },
+  {
+    "id": "sch-sci-205-2-9",
+    "roomId": "room-sci-205",
+    "dayOfWeek": 2,
+    "startHour": 9,
+    "endHour": 12,
+    "courseName": "Organic Chemistry"
+  },
+  {
+    "id": "sch-sci-205-2-13",
+    "roomId": "room-sci-205",
+    "dayOfWeek": 2,
+    "startHour": 13,
+    "endHour": 16,
+    "courseName": "Cell Biology Lab"
+  },
+  {
+    "id": "sch-sci-205-3-10",
+    "roomId": "room-sci-205",
+    "dayOfWeek": 3,
+    "startHour": 10,
+    "endHour": 13,
+    "courseName": "Microbiology"
+  },
+  {
+    "id": "sch-sci-205-3-14",
+    "roomId": "room-sci-205",
+    "dayOfWeek": 3,
+    "startHour": 14,
+    "endHour": 17,
+    "courseName": "Physics I"
+  },
+  {
+    "id": "sch-sci-205-4-9",
+    "roomId": "room-sci-205",
+    "dayOfWeek": 4,
+    "startHour": 9,
+    "endHour": 12,
+    "courseName": "Modern Physics"
+  },
+  {
+    "id": "sch-sci-205-4-13",
+    "roomId": "room-sci-205",
+    "dayOfWeek": 4,
+    "startHour": 13,
+    "endHour": 16,
+    "courseName": "General Chemistry Lab"
+  },
+  {
+    "id": "sch-sci-301-1-9",
+    "roomId": "room-sci-301",
+    "dayOfWeek": 1,
+    "startHour": 9,
+    "endHour": 11,
+    "courseName": "Modern Physics"
+  },
+  {
+    "id": "sch-sci-301-1-13",
+    "roomId": "room-sci-301",
+    "dayOfWeek": 1,
+    "startHour": 13,
+    "endHour": 15,
+    "courseName": "General Chemistry Lab"
+  },
+  {
+    "id": "sch-sci-301-2-8",
+    "roomId": "room-sci-301",
+    "dayOfWeek": 2,
+    "startHour": 8,
+    "endHour": 10,
+    "courseName": "Organic Chemistry"
+  },
+  {
+    "id": "sch-sci-301-2-10",
+    "roomId": "room-sci-301",
+    "dayOfWeek": 2,
+    "startHour": 10,
+    "endHour": 12,
+    "courseName": "Cell Biology Lab"
+  },
+  {
+    "id": "sch-sci-301-2-14",
+    "roomId": "room-sci-301",
+    "dayOfWeek": 2,
+    "startHour": 14,
+    "endHour": 16,
+    "courseName": "Microbiology"
+  },
+  {
+    "id": "sch-sci-301-3-9",
+    "roomId": "room-sci-301",
+    "dayOfWeek": 3,
+    "startHour": 9,
+    "endHour": 11,
+    "courseName": "Microbiology"
+  },
+  {
+    "id": "sch-sci-301-3-13",
+    "roomId": "room-sci-301",
+    "dayOfWeek": 3,
+    "startHour": 13,
+    "endHour": 15,
+    "courseName": "Physics I"
+  },
+  {
+    "id": "sch-sci-301-4-10",
+    "roomId": "room-sci-301",
+    "dayOfWeek": 4,
+    "startHour": 10,
+    "endHour": 12,
+    "courseName": "Modern Physics"
+  },
+  {
+    "id": "sch-sci-301-4-14",
+    "roomId": "room-sci-301",
+    "dayOfWeek": 4,
+    "startHour": 14,
+    "endHour": 16,
+    "courseName": "General Chemistry Lab"
+  },
+  {
+    "id": "sch-adm-101-1-8",
+    "roomId": "room-adm-101",
+    "dayOfWeek": 1,
+    "startHour": 8,
+    "endHour": 17,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-adm-101-2-8",
+    "roomId": "room-adm-101",
+    "dayOfWeek": 2,
+    "startHour": 8,
+    "endHour": 17,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-adm-101-3-8",
+    "roomId": "room-adm-101",
+    "dayOfWeek": 3,
+    "startHour": 8,
+    "endHour": 17,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-adm-101-4-8",
+    "roomId": "room-adm-101",
+    "dayOfWeek": 4,
+    "startHour": 8,
+    "endHour": 17,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-adm-101-5-8",
+    "roomId": "room-adm-101",
+    "dayOfWeek": 5,
+    "startHour": 8,
+    "endHour": 12,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-adm-201-1-8",
+    "roomId": "room-adm-201",
+    "dayOfWeek": 1,
+    "startHour": 8,
+    "endHour": 17,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-adm-201-2-8",
+    "roomId": "room-adm-201",
+    "dayOfWeek": 2,
+    "startHour": 8,
+    "endHour": 17,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-adm-201-3-8",
+    "roomId": "room-adm-201",
+    "dayOfWeek": 3,
+    "startHour": 8,
+    "endHour": 17,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-adm-201-4-8",
+    "roomId": "room-adm-201",
+    "dayOfWeek": 4,
+    "startHour": 8,
+    "endHour": 17,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-adm-201-5-8",
+    "roomId": "room-adm-201",
+    "dayOfWeek": 5,
+    "startHour": 8,
+    "endHour": 12,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-adm-g05-1-10",
+    "roomId": "room-adm-g05",
+    "dayOfWeek": 1,
+    "startHour": 10,
+    "endHour": 12,
+    "courseName": "Board Meeting"
+  },
+  {
+    "id": "sch-adm-g05-2-14",
+    "roomId": "room-adm-g05",
+    "dayOfWeek": 2,
+    "startHour": 14,
+    "endHour": 16,
+    "courseName": "Student Orientation"
+  },
+  {
+    "id": "sch-adm-g05-3-9",
+    "roomId": "room-adm-g05",
+    "dayOfWeek": 3,
+    "startHour": 9,
+    "endHour": 11,
+    "courseName": "Board Meeting"
+  },
+  {
+    "id": "sch-adm-g05-4-13",
+    "roomId": "room-adm-g05",
+    "dayOfWeek": 4,
+    "startHour": 13,
+    "endHour": 15,
+    "courseName": "Student Orientation"
+  },
+  {
+    "id": "sch-adm-210-1-8",
+    "roomId": "room-adm-210",
+    "dayOfWeek": 1,
+    "startHour": 8,
+    "endHour": 17,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-adm-210-2-8",
+    "roomId": "room-adm-210",
+    "dayOfWeek": 2,
+    "startHour": 8,
+    "endHour": 17,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-adm-210-3-8",
+    "roomId": "room-adm-210",
+    "dayOfWeek": 3,
+    "startHour": 8,
+    "endHour": 17,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-adm-210-4-8",
+    "roomId": "room-adm-210",
+    "dayOfWeek": 4,
+    "startHour": 8,
+    "endHour": 17,
+    "courseName": "Staff working hours"
+  },
+  {
+    "id": "sch-adm-210-5-8",
+    "roomId": "room-adm-210",
+    "dayOfWeek": 5,
+    "startHour": 8,
+    "endHour": 12,
+    "courseName": "Staff working hours"
+  }
+]

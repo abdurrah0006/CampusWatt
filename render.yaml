@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: campuswatt-api
+    runtime: node
+    rootDir: backend
+    buildCommand: npm ci
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: DATA_SOURCE
+        value: mongo
+      - key: MONGO_URI
+        sync: false
+      - key: CORS_ORIGIN
+        sync: false
+      - key: INGEST_API_KEY
+        generateValue: true
+      - key: MONGO_TIMEOUT_MS
+        value: "10000"

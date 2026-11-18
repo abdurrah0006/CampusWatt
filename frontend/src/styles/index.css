@@ -1,0 +1,173 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Light theme */
+:root {
+  --bg-primary: #F4F6F4;
+  --bg-surface: #FFFFFF;
+  --bg-elevated: #E8ECE9;
+  --text-primary: #111C15;
+  --text-secondary: #4A5D50;
+  --text-muted: #5F7366;
+  --brand-primary: #124622;
+  --brand-primary-hover: #0D3519;
+  --brand-secondary: #006BDF;
+  --status-optimal: #009E73;
+  --status-moderate: #E69F00;
+  --status-critical: #D55E00;
+  --status-info: #006BDF;
+  --border-subtle: #D5DDD7;
+
+  --text-on-brand: #FFFFFF;
+  --danger-bg: #B04A00;
+  --danger-bg-hover: #8F3C00;
+  --text-on-danger: #FFFFFF;
+  --status-optimal-text: #00775A;
+  --status-moderate-text: #8A5A00;
+  --status-critical-text: #B04A00;
+  --status-info-text: #005BBF;
+
+  --series-1: #2A78D6;
+  --series-2: #D55181;
+  --series-3: #0E9BB5;
+  --series-4: #A8742A;
+  --series-5: #6250D6;
+  --series-other: #7A8C80;
+
+  color-scheme: light;
+}
+
+/* Dark theme */
+[data-theme="dark"], .dark {
+  --bg-primary: #0B131E;
+  --bg-surface: #131E2E;
+  --bg-elevated: #1C2B40;
+  --text-primary: #F0F4F8;
+  --text-secondary: #9FB3C8;
+  --text-muted: #7F98B2;
+  --brand-primary: #00BFA6;
+  --brand-primary-hover: #00A38D;
+  --brand-secondary: #3898FF;
+  --status-optimal: #00BFA6;
+  --status-moderate: #FFB400;
+  --status-critical: #FF6B6B;
+  --status-info: #3898FF;
+  --border-subtle: #24364D;
+
+  --text-on-brand: #0B131E;
+  --danger-bg: #FF6B6B;
+  --danger-bg-hover: #FF8585;
+  --text-on-danger: #0B131E;
+  --status-optimal-text: #00BFA6;
+  --status-moderate-text: #FFB400;
+  --status-critical-text: #FF6B6B;
+  --status-info-text: #3898FF;
+
+  --series-1: #3987E5;
+  --series-2: #D55181;
+  --series-3: #0E9BB5;
+  --series-4: #A8742A;
+  --series-5: #9085E9;
+  --series-other: #627D98;
+
+  color-scheme: dark;
+}
+
+/* Soft fills */
+:root {
+  --brand-soft: color-mix(in srgb, var(--brand-primary) 12%, transparent);
+  --status-optimal-soft: color-mix(in srgb, var(--status-optimal) 14%, transparent);
+  --status-moderate-soft: color-mix(in srgb, var(--status-moderate) 16%, transparent);
+  --status-critical-soft: color-mix(in srgb, var(--status-critical) 14%, transparent);
+  --status-info-soft: color-mix(in srgb, var(--status-info) 14%, transparent);
+  --overlay: color-mix(in srgb, var(--bg-primary) 70%, transparent);
+}
+
+@layer base {
+  html {
+    font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+    font-feature-settings: 'cv11', 'ss01';
+    -webkit-font-smoothing: antialiased;
+  }
+
+  body {
+    @apply bg-canvas text-ink-primary;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--brand-secondary);
+    outline-offset: 2px;
+  }
+
+  .tabular {
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+@layer components {
+  .card {
+    @apply rounded-xl border border-line bg-surface shadow-subtle;
+  }
+
+  .input {
+    @apply block h-10 w-full rounded-lg border border-line bg-surface px-3 text-sm text-ink-primary
+      placeholder:text-ink-muted focus:border-brand-secondary focus:outline-none;
+  }
+
+  .input-invalid {
+    @apply border-energy-critical;
+  }
+
+  .select {
+    @apply input appearance-none bg-no-repeat pr-9;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%237A8C80' stroke-width='1.75' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+    background-position: right 0.6rem center;
+    background-size: 1.1rem;
+  }
+
+  .label {
+    @apply mb-2 block text-sm font-medium text-ink-secondary;
+  }
+
+  .chip {
+    @apply inline-flex items-center gap-2 rounded-full border px-3 py-1 text-xs font-medium transition;
+  }
+
+  .data-table {
+    @apply w-full text-sm;
+  }
+
+  .data-table thead th {
+    @apply sticky top-0 z-10 border-b border-line bg-elevated px-4 py-3 text-left text-xs font-semibold uppercase tracking-wide text-ink-secondary first:pl-5 last:pr-5;
+  }
+
+  .data-table tbody td {
+    @apply border-b border-line px-4 py-3 text-ink-primary first:pl-5 last:pr-5;
+  }
+
+  .data-table tbody tr {
+    @apply transition-colors hover:bg-elevated;
+  }
+
+  .data-table .numeric {
+    @apply text-right tabular;
+  }
+
+  .icon-button {
+    @apply inline-flex h-10 w-10 shrink-0 items-center justify-center rounded-xl text-ink-secondary transition hover:bg-elevated hover:text-ink-primary;
+  }
+}
+
+@layer utilities {
+  .scrollbar-thin {
+    scrollbar-width: thin;
+    scrollbar-color: var(--border-subtle) transparent;
+  }
+}
+
+/* Recharts */
+.recharts-wrapper,
+.recharts-surface {
+  outline: none;
+}

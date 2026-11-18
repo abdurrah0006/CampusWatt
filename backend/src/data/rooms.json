@@ -1,0 +1,202 @@
+[
+  {
+    "id": "room-eng-101",
+    "code": "ENG-101",
+    "name": "Lecture Hall A",
+    "buildingId": "bld-eng",
+    "floor": 1,
+    "type": "lecture_hall",
+    "areaM2": 220,
+    "baselineKw": 3.2
+  },
+  {
+    "id": "room-eng-204",
+    "code": "ENG-204",
+    "name": "Robotics Lab",
+    "buildingId": "bld-eng",
+    "floor": 2,
+    "type": "lab",
+    "areaM2": 160,
+    "baselineKw": 5.5
+  },
+  {
+    "id": "room-eng-310",
+    "code": "ENG-310",
+    "name": "Computer Lab 3",
+    "buildingId": "bld-eng",
+    "floor": 3,
+    "type": "lab",
+    "areaM2": 140,
+    "baselineKw": 4.8
+  },
+  {
+    "id": "room-eng-115",
+    "code": "ENG-115",
+    "name": "Faculty Offices",
+    "buildingId": "bld-eng",
+    "floor": 1,
+    "type": "office",
+    "areaM2": 180,
+    "baselineKw": 1.6
+  },
+  {
+    "id": "room-bus-g01",
+    "code": "BUS-G01",
+    "name": "Main Auditorium",
+    "buildingId": "bld-bus",
+    "floor": 0,
+    "type": "lecture_hall",
+    "areaM2": 420,
+    "baselineKw": 6
+  },
+  {
+    "id": "room-bus-120",
+    "code": "BUS-120",
+    "name": "Seminar Room 1",
+    "buildingId": "bld-bus",
+    "floor": 1,
+    "type": "lecture_hall",
+    "areaM2": 90,
+    "baselineKw": 2.2
+  },
+  {
+    "id": "room-bus-230",
+    "code": "BUS-230",
+    "name": "Trading Floor Lab",
+    "buildingId": "bld-bus",
+    "floor": 2,
+    "type": "lab",
+    "areaM2": 130,
+    "baselineKw": 4
+  },
+  {
+    "id": "room-bus-305",
+    "code": "BUS-305",
+    "name": "Dean's Office Suite",
+    "buildingId": "bld-bus",
+    "floor": 3,
+    "type": "office",
+    "areaM2": 120,
+    "baselineKw": 1.4
+  },
+  {
+    "id": "room-lib-g10",
+    "code": "LIB-G10",
+    "name": "Main Reading Hall",
+    "buildingId": "bld-lib",
+    "floor": 0,
+    "type": "library",
+    "areaM2": 600,
+    "baselineKw": 5
+  },
+  {
+    "id": "room-lib-150",
+    "code": "LIB-150",
+    "name": "Group Study Rooms",
+    "buildingId": "bld-lib",
+    "floor": 1,
+    "type": "library",
+    "areaM2": 200,
+    "baselineKw": 2.4
+  },
+  {
+    "id": "room-lib-210",
+    "code": "LIB-210",
+    "name": "Digital Media Lab",
+    "buildingId": "bld-lib",
+    "floor": 2,
+    "type": "lab",
+    "areaM2": 110,
+    "baselineKw": 3.6
+  },
+  {
+    "id": "room-lib-220",
+    "code": "LIB-220",
+    "name": "Archive & Staff Offices",
+    "buildingId": "bld-lib",
+    "floor": 2,
+    "type": "office",
+    "areaM2": 150,
+    "baselineKw": 1.5
+  },
+  {
+    "id": "room-sci-110",
+    "code": "SCI-110",
+    "name": "Chemistry Lab",
+    "buildingId": "bld-sci",
+    "floor": 1,
+    "type": "lab",
+    "areaM2": 190,
+    "baselineKw": 6.5
+  },
+  {
+    "id": "room-sci-205",
+    "code": "SCI-205",
+    "name": "Biology Lab",
+    "buildingId": "bld-sci",
+    "floor": 2,
+    "type": "lab",
+    "areaM2": 170,
+    "baselineKw": 6
+  },
+  {
+    "id": "room-sci-b01",
+    "code": "SCI-B01",
+    "name": "Campus Server Room",
+    "buildingId": "bld-sci",
+    "floor": -1,
+    "type": "server_room",
+    "areaM2": 80,
+    "baselineKw": 9
+  },
+  {
+    "id": "room-sci-301",
+    "code": "SCI-301",
+    "name": "Physics Lecture Hall",
+    "buildingId": "bld-sci",
+    "floor": 3,
+    "type": "lecture_hall",
+    "areaM2": 200,
+    "baselineKw": 3
+  },
+  {
+    "id": "room-adm-101",
+    "code": "ADM-101",
+    "name": "Student Services Center",
+    "buildingId": "bld-adm",
+    "floor": 1,
+    "type": "office",
+    "areaM2": 210,
+    "baselineKw": 2
+  },
+  {
+    "id": "room-adm-201",
+    "code": "ADM-201",
+    "name": "Administration Offices",
+    "buildingId": "bld-adm",
+    "floor": 2,
+    "type": "office",
+    "areaM2": 260,
+    "baselineKw": 2.2
+  },
+  {
+    "id": "room-adm-g05",
+    "code": "ADM-G05",
+    "name": "Conference Hall",
+    "buildingId": "bld-adm",
+    "floor": 0,
+    "type": "lecture_hall",
+    "areaM2": 240,
+    "baselineKw": 3.4
+  },
+  {
+    "id": "room-adm-210",
+    "code": "ADM-210",
+    "name": "IT Help Desk",
+    "buildingId": "bld-adm",
+    "floor": 2,
+    "type": "office",
+    "areaM2": 90,
+    "baselineKw": 1.8
+  }
+]

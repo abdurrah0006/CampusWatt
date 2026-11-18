@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+
+# env files (keep the .env.example files)
+.env
+.env.*
+!.env.example
+
+# builds
+frontend/dist/
+coverage/
+
+# logs & OS files
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# runtime changes saved in JSON mode
+backend/src/data/runtime-overrides.json
